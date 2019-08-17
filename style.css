@@ -1,0 +1,20 @@
+body{
+
+}
+.login-block ,.register-block{
+  display: block;
+  margin: auto;
+  width: 25%;
+  margin-top: 150px;
+}
+input{
+  padding-top: 15px;
+  padding: 10px;
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+}
+
+button {
+  padding: 10px;
+  background: red;
+}
